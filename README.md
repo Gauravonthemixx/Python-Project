@@ -1,6 +1,6 @@
-# :pushpin: :computer: Python-Project 
+#  :computer: Python-Project :computer:
 
-## Python Script 1 :pencil: 
+## 📍 :pencil: Python Script 1 :pencil: 
 
 ### Description
 * I have written a python script that calculates the age of a user based on their inputted date of birth in American format (mm/dd/yyyy). 
