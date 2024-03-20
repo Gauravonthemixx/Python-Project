@@ -1,6 +1,6 @@
 #  :computer: Python-Project :computer:
 
-## 📍 :pencil: Python Script 1  
+## 📍📝 Python Script 1  
 
 ### Description
 * I have written a python script that calculates the age of a user based on their inputted date of birth in American format (mm/dd/yyyy). 
@@ -9,7 +9,7 @@
 
 * Finally, it calculates the age based on the current date and the final output is the user's age.
 
-## 📍:pencil: Python Script 2
+## 📍📝 Python Script 2
 ### Description
 * This Python script defines a function non_prime_no to find non-prime numbers within a given range. It iterates through each number in the specified range, checking if each number is divisible by any number other than 1 and itself. If a number is found to have divisors other than 1 and itself, it is appended to a list named output.
 
@@ -17,7 +17,7 @@
 
 * it checks if the input values are valid (greater than 1), and if so, it calls the non_prime_no function with the specified range. If there are non-prime numbers within the range, it prints them in groups of 10 per line. If no non-prime numbers are found, it prints a message indicating so.
 
-## 📌📝 Python Script 3
+## 📍📝 Python Script 3
 ### part (a)
 
 * Defines a function named check_palindrome to determine if a given string is a palindrome.
@@ -36,7 +36,7 @@ Returns True if the string is a palindrome, otherwise False.
 Iterates through the string and updates the corresponding count based on the type of character encountered.
 * Returns the counts as a dictionary.
 
-## 📌📝 Python Script 4
+## 📍📝 Python Script 4
 
 ### Description
 
