@@ -1,6 +1,6 @@
 #  :computer: Python-Project :computer:
 
-## 📍 :pencil: Python Script 1 :pencil: 
+## 📍 :pencil: Python Script 1  
 
 ### Description
 * I have written a python script that calculates the age of a user based on their inputted date of birth in American format (mm/dd/yyyy). 
@@ -9,48 +9,52 @@
 
 * Finally, it calculates the age based on the current date and the final output is the user's age.
 
-# Python Script 2
-This Python script defines a function non_prime_no to find non-prime numbers within a given range. It iterates through each number in the specified range, checking if each number is divisible by any number other than 1 and itself. If a number is found to have divisors other than 1 and itself, it is appended to a list named output.
+## 📍:pencil: Python Script 2
+### Description
+* This Python script defines a function non_prime_no to find non-prime numbers within a given range. It iterates through each number in the specified range, checking if each number is divisible by any number other than 1 and itself. If a number is found to have divisors other than 1 and itself, it is appended to a list named output.
 
-Then, it prompts the user to input the lower and upper limits of the range. The input values are converted to integers, and if the lower limit is greater than the upper limit, the limits are swapped.
+* Then, it prompts the user to input the lower and upper limits of the range. The input values are converted to integers, and if the lower limit is greater than the upper limit, the limits are swapped.
 
-Next, it checks if the input values are valid (greater than 1), and if so, it calls the non_prime_no function with the specified range. If there are non-prime numbers within the range, it prints them in groups of 10 per line. If no non-prime numbers are found, it prints a message indicating so.
+* it checks if the input values are valid (greater than 1), and if so, it calls the non_prime_no function with the specified range. If there are non-prime numbers within the range, it prints them in groups of 10 per line. If no non-prime numbers are found, it prints a message indicating so.
 
-# Python Script 3
-# part (a)
+## 📌📝 Python Script 3
+### part (a)
 
-Defines a function named check_palindrome to determine if a given string is a palindrome.
+* Defines a function named check_palindrome to determine if a given string is a palindrome.
 Reverses the input string and compares it with the original to check for equality.
 Returns True if the string is a palindrome, otherwise False.
-# part (b)
+### part (b)
 
-Defines a function named frequent_letter to find the most frequently occurring letter in a given string.
-Converts the input string to uppercase for case-insensitive comparison.
-Counts the occurrences of each letter using a dictionary and returns the letter with the maximum count.
-# part(c)
+* Defines a function named frequent_letter to find the most frequently occurring letter in a given string.
+* Converts the input string to uppercase for case-insensitive comparison.
+* Counts the occurrences of each letter using a dictionary and returns the letter with the maximum count.
+ 
+### part(c)
 
-Defines a function named counting to count the number of letters, digits, and spaces in a given string.
-Initializes a dictionary to store counts for each category (Letter, Digits, Spaces).
+* Defines a function named counting to count the number of letters, digits, and spaces in a given string.
+* Initializes a dictionary to store counts for each category (Letter, Digits, Spaces).
 Iterates through the string and updates the corresponding count based on the type of character encountered.
-Returns the counts as a dictionary.
+* Returns the counts as a dictionary.
 
-# python Script 4
+## 📌📝 Python Script 4
 
-Function employee_details_sort:
-Description:
-Takes three arguments: employees_details (a list of tuples containing employee details), salary_lower, and salary_highest.
-Filters employee details based on the provided salary range and sorts them by salary in descending order.
-Prints the name and job title of employees within the specified salary range.
-File Input Handling:
-Description:
-Prompts the user to enter the name of a file containing employee details.
-Checks if the file exists in the specified path, prompting the user until a valid file is provided.
-Reads the content of the file line by line and processes each line to extract employee details.
-Main Program:
-Description:
-Reads the content of the file provided by the user and converts it into a list of tuples containing employee details.
-Prompts the user to input salary ranges and calls the employee_details_sort function to filter and display employee details based on the provided ranges.
-Allows the user to repeat the process or exit the program based on their choice.
+### Description
+
+#### Function employee_details_sort:
+
+* Takes three arguments: employees_details (a list of tuples containing employee details), salary_lower, and salary_highest.
+* Filters employee details based on the provided salary range and sorts them by salary in descending order.
+* Prints the name and job title of employees within the specified salary range.
+#### File Input Handling:
+
+*Prompts the user to enter the name of a file containing employee details.
+*Checks if the file exists in the specified path, prompting the user until a valid file is provided.
+*Reads the content of the file line by line and processes each line to extract employee details.
+#### Main Program:
+
+*Reads the content of the file provided by the user and converts it into a list of tuples containing employee details.
+*Prompts the user to input salary ranges and calls the employee_details_sort function to filter and display employee details based on the provided ranges.
+*Allows the user to repeat the process or exit the program based on their choice.
 
 
 
