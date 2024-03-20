@@ -1,8 +1,13 @@
-# Python-Project :keyboard:  :computer:
+# Python-Project :computer:
 
-:pencil: ## Python Script 1 
+## Python Script 1 :pencil: 
+
 ### Description
-I have written a python script that calculates the age of a user based on their inputted date of birth in American format (mm/dd/yyyy). It first checks the validity of the input format and then verifies if the date entered is valid. It considers leap years and month with varying number of days. Finally, it calculates the age based on the current date and the final output is the user's age.
+* I have written a python script that calculates the age of a user based on their inputted date of birth in American format (mm/dd/yyyy). 
+
+* It first checks the validity of the input format and then verifies if the date entered is valid. It considers leap years and month with varying number of days.
+
+* Finally, it calculates the age based on the current date and the final output is the user's age.
 
 # Python Script 2
 This Python script defines a function non_prime_no to find non-prime numbers within a given range. It iterates through each number in the specified range, checking if each number is divisible by any number other than 1 and itself. If a number is found to have divisors other than 1 and itself, it is appended to a list named output.
