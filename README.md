@@ -9,6 +9,10 @@
 
 * Finally, it calculates the age based on the current date and the final output is the user's age.
 
+### Output
+<img width="835" alt="Screenshot 2024-03-20 at 00 26 48" src="https://github.com/Gauravonthemixx/Python-Project/assets/91785440/29ac29ea-f52a-4f53-9036-0d5751dc026b">
+
+
 ## 📍📝 Python Script 2
 ### Description
 * This Python script defines a function non_prime_no to find non-prime numbers within a given range. It iterates through each number in the specified range, checking if each number is divisible by any number other than 1 and itself. If a number is found to have divisors other than 1 and itself, it is appended to a list named output.
