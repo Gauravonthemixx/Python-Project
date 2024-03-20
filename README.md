@@ -21,6 +21,11 @@
 
 * it checks if the input values are valid (greater than 1), and if so, it calls the non_prime_no function with the specified range. If there are non-prime numbers within the range, it prints them in groups of 10 per line. If no non-prime numbers are found, it prints a message indicating so.
 
+### Output
+<img width="1247" alt="Screenshot 2024-03-20 at 00 42 04" src="https://github.com/Gauravonthemixx/Python-Project/assets/91785440/d2b4378c-6bfb-4bcd-bb82-494295d00c48">
+
+
+
 ## 📍📝 Python Script 3
 ### part (a)
 
